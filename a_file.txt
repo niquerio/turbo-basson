@@ -1,4 +1,4 @@
-Line 1 whatever something totally different.
+Line 1 text and some other stuff and something totally different.
 
 Line 2 text.
 
